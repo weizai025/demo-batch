@@ -16,6 +16,6 @@ public class MyTest {
 
     @Test
     public void test(){
-        Collections.shuffle();
+        //Collections.shuffle();
     }
 }
