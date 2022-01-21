@@ -17,5 +17,6 @@ public class MyTest {
     @Test
     public void test(){
         //Collections.shuffle();
+        System.out.println("hello");
     }
 }
